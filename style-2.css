@@ -1,0 +1,84 @@
+body{
+  background: #242424;
+}
+
+.navbar {
+  background: #242424;
+  position: fixed;
+  top: 0;
+  
+  width: 100%; 
+}
+.navbar img{
+  float: left;
+}
+
+.logo {
+   padding-top: 200px;
+}
+
+.forms{
+  background-color: white;   
+  width:500px;
+  margin-top: 65px;
+  border-radius: 6px;
+  align-items: center;
+  
+  
+}
+
+.forms button{
+  background-color: #FFCE2E;
+  transition: 0,5rem;
+
+  Width: 500px;
+  Height: 35px;
+ 
+  border-radius: 50px;
+  border: none;
+
+
+
+
+}
+.forms button:hover{
+  background-color: #FFD700;
+  color: #242424;
+  transition: 0,5rem;
+
+}
+
+
+.perfil-invest{
+  
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1,h2, h3 {
+  color: white;
+  font-size: 53px;
+  position: absolute;
+  width: 566px;
+  height: 44px;
+  left: 45px;
+  top: 249px;
+  
+}
+.logo p{ 
+  font-size: 36px Monteseat;
+  color: white;
+
+  position: absolute;
+  width: 566px;
+  height: 44px;
+  left: 45px;
+  top: 389px;
+  
+}
+
+
+
+
