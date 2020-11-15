@@ -35,6 +35,17 @@ h1, h2, h3, p {
   color: white;
 }
 
+
+.carteira{
+  margin-top: 200px;
+  margin-left: 80px;
+}
+
+
+.forms-2{
+  padding-left: 480px;
+}
+/* 
 @media screen and (max-width: 767px) {
 	h1 {
 	    font-size: 50px; 
@@ -43,6 +54,11 @@ h1, h2, h3, p {
     .forms{
       font-size: 40%;
     }
+} */
+
+
+.money{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
 }
-
-
