@@ -1,2 +1,2 @@
 # EducaInvest
-Nova Plataforma para investidores iniciantes
+Plataforma mais amigável para os novos investidores.
